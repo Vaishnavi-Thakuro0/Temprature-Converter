@@ -12,8 +12,9 @@ A temperature widget needs two conversion helpers and one formatting helper. Kee
 
 1. Clone this repository.
 2. Open `script.js` in a JavaScript environment such as Node.js or a browser console.
-3. Pass the function `celsiusToFahrenheit(celsius)` or `fahrenheitToCelsius(fahrenheit)` into variable name `fahrenheit` and `celcius`;
-4. Call the function `formatTemperature(value, unit)` with a variable, value.
+3. Use `celsiusToFahrenheit()` or `fahrenheitToCelsius()` to calculate a temperature.
+4. Store the result in a variable.
+5. Call the function `formatTemperature(value, unit)` with a variable, value.
 
 ## Project Page URL
 https://roadmap.sh/projects/js-temperature-converter
